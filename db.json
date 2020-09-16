@@ -1,7 +1,7 @@
 {
     "offers": [
         {
-            "id": "1",
+            "id": 1,
             "subject": "Subject.math",
             "name": "Jonathan",
             "contact": "Jonathan@redacted.com",
@@ -10,7 +10,7 @@
             "endDate": 1893452400000
         },
         {
-            "id": "2",
+            "id": 2,
             "subject": "Subject.art",
             "name": "Jonathan",
             "contact": "Jonathan@redacted.com",
@@ -19,7 +19,7 @@
             "endDate": 1893452400000
         },
         {
-            "id": "3",
+            "id": 3,
             "subject": "Subject.history",
             "name": "Jonathan",
             "contact": "Jonathan@redacted.com",
