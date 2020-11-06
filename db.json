@@ -3,7 +3,7 @@
         {
             "id": 1,
             "subject": "Subject.math",
-            "userMail": "Jonathan",
+            "userMail": "Jonathan@redacted.com",
             "acceptingUserMail": "Jonathan@redacted.com",
             "topic": "Functions and square roots",
             "year": 11,
@@ -13,7 +13,7 @@
         {
             "id": 2,
             "subject": "Subject.art",
-            "userMail": "Jonathan",
+            "userMail": "Jonathan@redacted.com",
             "acceptingUserMail": "Jonathan@redacted.com",
             "topic": "Piet Mondrian",
             "year": 11,
@@ -23,7 +23,7 @@
         {
             "id": 3,
             "subject": "Subject.history",
-            "userMail": "Jonathan",
+            "userMail": "Jonathan@redacted.com",
             "acceptingUserMail": "Jonathan@redacted.com",
             "topic": "Germany in half",
             "year": 11,
