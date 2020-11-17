@@ -3,8 +3,8 @@
         {
             "id": 1,
             "subject": "Subject.math",
-            "userMail": "Jonathan@redacted.com",
-            "acceptingUserMail": "Jonathan@redacted.com",
+            "userMail": "Jonathan@test.com",
+            "acceptingUserMail": "Jonathan@test.com",
             "topic": "Functions and square roots",
             "year": 11,
             "endDate": 1600863113655,
@@ -13,8 +13,8 @@
         {
             "id": 2,
             "subject": "Subject.art",
-            "userMail": "Jonathan@redacted.com",
-            "acceptingUserMail": "Jonathan@redacted.com",
+            "userMail": "Jonathan@test.com",
+            "acceptingUserMail": "Jonathan@test.com",
             "topic": "Piet Mondrian",
             "year": 11,
             "endDate": 1893452400000,
@@ -23,8 +23,8 @@
         {
             "id": 3,
             "subject": "Subject.history",
-            "userMail": "Jonathan@redacted.com",
-            "acceptingUserMail": "Jonathan@redacted.com",
+            "userMail": "Jonathan@test.com",
+            "acceptingUserMail": "Jonathan@test.com",
             "topic": "Germany in half",
             "year": 11,
             "endDate": 1893452400000,
